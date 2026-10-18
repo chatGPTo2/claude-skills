@@ -1,0 +1,6 @@
+{
+  "name": "kids-book",
+  "description": "Produce low-stimulation children's picture books and read-aloud video scripts, with locked character bibles and page-by-page image prompts.",
+  "version": "0.1.0",
+  "author": { "name": "Chathuka Perera" }
+}
