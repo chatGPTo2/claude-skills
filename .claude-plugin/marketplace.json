@@ -1,0 +1,11 @@
+{
+  "name": "chathuka-skills",
+  "owner": { "name": "Chathuka Perera" },
+  "plugins": [
+    {
+      "name": "kids-book",
+      "source": "./plugins/kids-book",
+      "description": "Children's picture book production for KDP and read-aloud video"
+    }
+  ]
+}
